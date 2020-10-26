@@ -50,7 +50,7 @@ Vuesax is an open source [MIT](https://raw.githubusercontent.com/lusaxweb/vuesax
 ## Introduction
 
 [Vuesax](https://lusaxweb.github.io/vuesax/) is a framework of components based on [vue.js](https://vuejs.org/), it is a framework that is designed from scratch to be incrementally adoptable.
-
+[amendx](https://amendx.github.io) - Check me out!
 The framework is focused on facilitating the development of applications, improving the design of the same without removing the necessary functionality. we want all the components to be independent in colors, shapes and design for a freedom that we like all front-end but without losing the speed of creation and production.
 
 ## Vuesax 4 (alpha)
